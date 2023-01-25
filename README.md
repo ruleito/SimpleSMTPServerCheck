@@ -1,6 +1,5 @@
 # SimpleSMTPServerCheck
 
-check smtp
 
 Simple smtp server for check availible on 25 port Windows Server
 
